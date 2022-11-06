@@ -9,3 +9,5 @@
 2022/11/06 2nd_ed_eratta.txt （第二版用のエラッタ）作成
 
 2022/11/06 リポジトリ作成
+
+齋藤孝道 saito@saitolab.org @saitolab_org
